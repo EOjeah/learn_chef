@@ -1,5 +1,3 @@
-https://packages.chef.io/files/stable/chef-server/13.1.13/el/7/chef-server-core-13.1.13-1.el7.x86_64.rpm
-
 #!/bin/bash
 yum update -y
 
